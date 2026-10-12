@@ -1,0 +1,10 @@
+# 编译产物
+cpp/softmax_tool
+*.o
+*.out
+a.out
+build/
+
+# Python
+__pycache__/
+*.pyc
